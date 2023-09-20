@@ -1,8 +1,8 @@
 
 ### Olá, eu sou João Pedro👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-loureiro&show_icons=true&theme=radical)
 <hr>
-
+ 
 <h4> Um pouco sobre mim <h4/>
    <ul>
         <li> 💻 Desenvolvedora WEB </li>
@@ -25,13 +25,11 @@
 <img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60px" />
-          
+         
 <!-- <img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> -->
           
 
   <hr>
 
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-loureiro&show_icons=true&theme=radical)
-  <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-loureiro\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-loureiro\&layout=compact) 
+ 
