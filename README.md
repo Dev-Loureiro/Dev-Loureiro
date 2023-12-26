@@ -5,8 +5,8 @@
  
 <h4> Um pouco sobre mim <h4/>
    <ul>
-        <li> 💻 Desenvolvedora WEB </li>
-        <li> 💙 Atualmente estudando no Instituto PROA</li>
+        <li> 💻 Desenvolvedor WEB </li>
+        <li> 💙 Ex PROANO</li>
     </ul>
 
   <h4> Onde me encontrar: <h4/>
